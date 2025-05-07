@@ -1,7 +1,7 @@
 #!/bin/bash
 a=$1
 b=$2
-
+#add 3 numbers
 function add_two_numbers() {
 
 	local t=$a
